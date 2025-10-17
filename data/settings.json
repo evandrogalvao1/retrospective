@@ -1,0 +1,7 @@
+{
+  "maxVotesPerUser": 3,
+  "boardTitle": "Scrum Retrospective Board",
+  "adminPassword": "admin123",
+  "autoSaveInterval": 30000,
+  "lastUpdated": "2025-10-17T15:00:00.000Z"
+}
